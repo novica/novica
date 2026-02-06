@@ -18,6 +18,20 @@ I currently work with data and people at the [🐟 Norwegian 🐄 Veterinary �
 - 📄 I keep my CV in plain text on [this GitHub repository](https://github.com/novica/cvnn/), or as HTML on [GitHub Pages](https://novica.github.io/cvnn/);
 - 🍕and, the name Novica rhymes with pizza.
 
+### Next-Gen R Tooling Packages for Arch Linux
+
+Recently several tools have been released in the R-world in what it looks like an effort to catch up with what [Astral.sh](https://github.com/astral-sh) has done for python.
+
+Packages for these are now avaialbe on [AUR](https://aur.archlinux.org/) - ArchLinux's user repository.
+
+| Tool | Description | Source Package | Binary Package |
+| ---- | ------------| -------------- | -------------- |
+| air  | An R language server and formatter | https://aur.archlinux.org/packages/r-air | https://aur.archlinux.org/packages/r-air-bin |
+| arf  | A modern R console | https://aur.archlinux.org/packages/arf | https://aur.archlinux.org/packages/arf-bin |
+| ark  | An R kernel | https://aur.archlinux.org/packages/r-ark | https://aur.archlinux.org/packages/r-ark-bin |
+| jarl | Fast linter for the R language | https://aur.archlinux.org/packages/jarl | https://aur.archlinux.org/packages/jarl-bin |
+| rig  | The R Installation Manager | https://aur.archlinux.org/packages/r-rig | https://aur.archlinux.org/packages/r-rig-bin |
+| rv   | A declarative R package manager | https://aur.archlinux.org/packages/rv | https://aur.archlinux.org/packages/rv-bin |
 
 <!-- ### Stats -->
 <!-- <img src = "https://github-readme-stats.vercel.app/api?username=novica&show_icons=true&theme="> -->
