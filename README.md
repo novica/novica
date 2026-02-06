@@ -26,12 +26,12 @@ Packages for these are now avaialbe on [AUR](https://aur.archlinux.org/) - ArchL
 
 | Tool | Description | Source Package | Binary Package |
 | ---- | ------------| -------------- | -------------- |
-| [air](https://github.com/posit-dev/air)  | An R language server and formatter | https://aur.archlinux.org/packages/r-air | https://aur.archlinux.org/packages/r-air-bin |
-| [arf](https://github.com/eitsupi/arf)  | A modern R console | https://aur.archlinux.org/packages/arf | https://aur.archlinux.org/packages/arf-bin |
-| [ark](https://github.com/posit-dev/ark)  | An R kernel | https://aur.archlinux.org/packages/r-ark | https://aur.archlinux.org/packages/r-ark-bin |
-| [jarl](https://github.com/etiennebacher/jarl) | Fast linter for the R language | https://aur.archlinux.org/packages/jarl | https://aur.archlinux.org/packages/jarl-bin |
-| [rig](https://github.com/r-lib/rig)  | The R Installation Manager | https://aur.archlinux.org/packages/r-rig | https://aur.archlinux.org/packages/r-rig-bin |
-| [rv](https://github.com/a2-ai/rv)   | A declarative R package manager | https://aur.archlinux.org/packages/rv | https://aur.archlinux.org/packages/rv-bin |
+| [air](https://github.com/posit-dev/air)  | An R language server and formatter | [r-air](https://aur.archlinux.org/packages/r-air) | [r-air-bin](https://aur.archlinux.org/packages/r-air-bin) |
+| [arf](https://github.com/eitsupi/arf)  | A modern R console | [arf](https://aur.archlinux.org/packages/arf) | [arf-bin](https://aur.archlinux.org/packages/arf-bin) |
+| [ark](https://github.com/posit-dev/ark)  | An R kernel | [r-ark](https://aur.archlinux.org/packages/r-ark) | [r-ark-bin](https://aur.archlinux.org/packages/r-ark-bin) |
+| [jarl](https://github.com/etiennebacher/jarl) | Fast linter for the R language | [jarl](https://aur.archlinux.org/packages/jarl) | [jarl-bin](https://aur.archlinux.org/packages/jarl-bin) |
+| [rig](https://github.com/r-lib/rig)  | The R Installation Manager | [r-rig](https://aur.archlinux.org/packages/r-rig) | [r-rig-bin](https://aur.archlinux.org/packages/r-rig-bin) |
+| [rv](https://github.com/a2-ai/rv)   | A declarative R package manager | [rv](https://aur.archlinux.org/packages/rv) | [rv-bin](https://aur.archlinux.org/packages/rv-bin) |
 
 <!-- ### Stats -->
 <!-- <img src = "https://github-readme-stats.vercel.app/api?username=novica&show_icons=true&theme="> -->
