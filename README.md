@@ -33,7 +33,7 @@ Packages for these are now avaialbe on [AUR](https://aur.archlinux.org/) - ArchL
 | [panache](https://github.com/jolars/panache) | A formatter, linter, and LSP for Quarto (.qmd), Pandoc, and Markdown files. | |
 | [rig](https://github.com/r-lib/rig)  | The R Installation Manager | [r-rig](https://aur.archlinux.org/packages/r-rig) | [r-rig-bin](https://aur.archlinux.org/packages/r-rig-bin) |
 | [rv](https://github.com/a2-ai/rv)   | A declarative R package manager | [rv](https://aur.archlinux.org/packages/rv) | [rv-bin](https://aur.archlinux.org/packages/rv-bin) |
-| [typR](https://github.com/we-data-ch/typr) |  https://github.com/we-data-ch/typr ||
+| [typR](https://github.com/we-data-ch/typr) | A modern type system for R ||
 
 <!-- ### Stats -->
 <!-- <img src = "https://github-readme-stats.vercel.app/api?username=novica&show_icons=true&theme="> -->
