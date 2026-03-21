@@ -22,7 +22,7 @@ I currently work with data and people at the [🐟 Norwegian 🐄 Veterinary �
 
 Recently several tools have been released in the R-world in what it looks like an effort to catch up with what [Astral.sh](https://github.com/astral-sh) has done for python.
 
-Packages for these are now avaialbe on [AUR](https://aur.archlinux.org/) - ArchLinux's user repository.
+I cretead packages for some of these tools on [AUR](https://aur.archlinux.org/) - ArchLinux's user repository, and some have been added by the tool's developer. A list below. 
 
 | Tool | Description | Source Package | Binary Package |
 | ---- | ------------| -------------- | -------------- |
@@ -30,7 +30,7 @@ Packages for these are now avaialbe on [AUR](https://aur.archlinux.org/) - ArchL
 | [arf](https://github.com/eitsupi/arf)  | A modern R console | [arf](https://aur.archlinux.org/packages/arf) | [arf-bin](https://aur.archlinux.org/packages/arf-bin) |
 | [ark](https://github.com/posit-dev/ark)  | An R kernel | [r-ark](https://aur.archlinux.org/packages/r-ark) | [r-ark-bin](https://aur.archlinux.org/packages/r-ark-bin) |
 | [jarl](https://github.com/etiennebacher/jarl) | Fast linter for the R language | [jarl](https://aur.archlinux.org/packages/jarl) | [jarl-bin](https://aur.archlinux.org/packages/jarl-bin) |
-| [panache](https://github.com/jolars/panache) | A formatter, linter, and LSP for Quarto (.qmd), Pandoc, and Markdown files. | |
+| [panache](https://github.com/jolars/panache) | A formatter, linter, and LSP for Quarto (.qmd), Pandoc, and Markdown files. | [panache](https://aur.archlinux.org/packages/panache/) | [panache-bin](https://aur.archlinux.org/packages/panache-bin) |
 | [rig](https://github.com/r-lib/rig)  | The R Installation Manager | [r-rig](https://aur.archlinux.org/packages/r-rig) | [r-rig-bin](https://aur.archlinux.org/packages/r-rig-bin) |
 | [rv](https://github.com/a2-ai/rv)   | A declarative R package manager | [rv](https://aur.archlinux.org/packages/rv) | [rv-bin](https://aur.archlinux.org/packages/rv-bin) |
 | [typR](https://github.com/we-data-ch/typr) | A modern type system for R ||
