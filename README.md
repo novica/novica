@@ -9,7 +9,7 @@
 
 I currently work with data and people at the [🐟 Norwegian 🐄 Veterinary 🥘 Institute ](https://www.vetinst.no/). 
 
-- 💻I [write](https://github.com/discindo) and [contribute](https://github.com/ThinkR-open/golem) to [R](https://r-pkg.org/search.html?q=novica) and (Python)(https://github.com/NorwegianVeterinaryInstitute/py_maskinporten) packages;
+- 💻I [write](https://github.com/discindo) and [contribute](https://github.com/ThinkR-open/golem) to [R](https://r-pkg.org/search.html?q=novica) and [Python](https://github.com/NorwegianVeterinaryInstitute/py_maskinporten) packages;
 - ©️ I like to talk about free software;
 - ✍️ I am a co-author at the [Discindo](https://discindo.org/) blog which mostly covers topics about R and Shiny in the cloud;
 - 📚 I write [books](https://goodreads.com/nnovica), most recently for [children](https://novica.discindo.org/posts/2024-07-09-sonlivata-mesechina/);
