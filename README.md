@@ -22,7 +22,7 @@ I currently work with data and people at the [🐟 Norwegian 🐄 Veterinary �
 
 Recently several tools have been released in the R-world in what it looks like an effort to catch up with what [Astral.sh](https://github.com/astral-sh) has done for python.
 
-I [cretead packages](https://github.com/novica/aur-packages/) for some of these tools on [AUR](https://aur.archlinux.org/) - ArchLinux's user repository, and some have been added by the tool's developer. A list below. 
+I [cretead packages](https://github.com/novica/aur-packages/) for some of these tools on [AUR](https://aur.archlinux.org/packages?SeB=m&K=novica) - ArchLinux's user repository, and some have been added by the tool's developer. A list below. 
 
 | Tool | Description | Source Package | Binary Package |
 | ---- | ------------| -------------- | -------------- |
