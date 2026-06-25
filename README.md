@@ -32,6 +32,7 @@ I [cretead packages](https://github.com/novica/aur-packages/) for some of these 
 | [jarl](https://github.com/etiennebacher/jarl) | Fast linter for the R language | [jarl](https://aur.archlinux.org/packages/jarl) | [jarl-bin](https://aur.archlinux.org/packages/jarl-bin) |
 | [panache](https://github.com/jolars/panache) | A formatter, linter, and LSP for Quarto (.qmd), Pandoc, and Markdown files. | [panache](https://aur.archlinux.org/packages/panache/) | [panache-bin](https://aur.archlinux.org/packages/panache-bin) |
 | [rig](https://github.com/r-lib/rig)  | The R Installation Manager | [r-rig](https://aur.archlinux.org/packages/r-rig) | [r-rig-bin](https://aur.archlinux.org/packages/r-rig-bin) |
+| [rpx](https://github.com/scalerail-solutions/rpx)  |  A performant package manager for R  |  |  |
 | [rv](https://github.com/a2-ai/rv)   | A declarative R package manager | [rv](https://aur.archlinux.org/packages/rv) | [rv-bin](https://aur.archlinux.org/packages/rv-bin) |
 | [typR](https://github.com/we-data-ch/typr) | A modern type system for R | [typr](https://aur.archlinux.org/packages/typr) | [typr-bin](https://aur.archlinux.org/packages/typr-bin) |
 | [uvr](https://github.com/nbafrank/uvr) | The R version of what `uv` is for Python | [uvr](https://aur.archlinux.org/packages/uvr) | [uvr-bin](https://aur.archlinux.org/packages/uvr-bin) |
